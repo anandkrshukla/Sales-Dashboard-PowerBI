@@ -1,6 +1,4 @@
-# Sales-Dashboard-PowerBI
-Interactive Sales Dashboard built using Power BI with Excel dataset for business insights and KPI analysis.
-# 📊 Sales Dashboard - Power BI
+.# 📊 Sales Dashboard - Power BI
 
 ## 📌 Project Overview
 This project is an interactive Sales Dashboard developed using Microsoft Power BI. It helps analyze sales performance, profit trends, regional sales, product categories, and key business KPIs through interactive visualizations.
